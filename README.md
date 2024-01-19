@@ -1,3 +1,9 @@
+#Pattern Lock
+
+Check out the website at : 
+
+https://devkmaan.github.io/PatternLock/
+
 As you might be aware that it's a pretty popular feature on Android devices to have a pattern lock. You can set a pattern lock for your device which gets unlocked only by matching it again. I've tried to replicate the same for the web, so that we can have fun for some time. This can as well be used to authenticate your website users as it's a all a number game behind the scenes.
 
 Will be updating it to make a full fledged challenging social game going forward.
