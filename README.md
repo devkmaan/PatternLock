@@ -1,4 +1,4 @@
-#Pattern Lock
+**Pattern Lock**
 
 Check out the website at : 
 
